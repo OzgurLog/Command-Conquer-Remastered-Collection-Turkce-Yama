@@ -6,7 +6,7 @@
 ![Durum](https://img.shields.io/badge/Durum-Stabil-blue)
 [![İndir](https://img.shields.io/badge/%C4%B0ndir-Releases-2ea44f)](../../releases/latest)
 
-Command & Conquer Remastered Collection (Steam) için hazırlanmış, **tamamı sıfırdan yazılmış** Türkçe yerelleştirme yaması. Bu yamada makine çevirisi yok: oyunun **6.852 metninin tamamı**, orijinal CONFIG dosyasındaki 9 resmî dil karşılaştırılarak ve C&C evreninin yerleşik terminolojisi gözetilerek yeniden yazıldı. Hedef, seriyi ilk gününden beri oynayan eski oyuncuları da tatmin edecek gerçek bir Türkçe deneyimi sunmak.
+Command & Conquer Remastered Collection (Steam) için hazırlanmış, GLM 5.3 ile **tamamı sıfırdan yazılmış** Türkçe yerelleştirme yaması. Bu yamada makine çevirisi yok: oyunun **6.852 metninin tamamı**, orijinal CONFIG dosyasındaki 9 resmî dil karşılaştırılarak ve C&C evreninin yerleşik terminolojisi gözetilerek yeniden yazıldı. Hedef, seriyi ilk gününden beri oynayan eski oyuncuları da tatmin edecek gerçek bir Türkçe deneyimi sunmak.
 
 | | |
 | --- | --- |
@@ -70,6 +70,9 @@ Yama, GitHub **Releases** sayfasında yayımlanır:
 3. **Önerilir:** Klasördeki orijinal `CONFIG.MEG` dosyasını yedekleyin (ör. adını `CONFIG.MEG.ORG` olarak değiştirin ya da güvenli bir klasöre kopyalayın).
 4. [İndirme](#indirme) bölümünden indirdiğiniz `CONFIG.MEG` dosyasını `Data` klasörüne kopyalayın (varsa üzerine yazın).
 5. Oyunu Steam'den başlatın. Steam dil ayarınızı değiştirmeniz gerekmez — oyun her dil ayarında Türkçe açılır.
+
+**Kurulum Videosu**
+[![CnC Remastered Kurulumu](https://img.youtube.com/vi/gr_-64-XwVQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gr_-64-XwVQ)
 
 Yama dosyasının gideceği tam yol:
 
